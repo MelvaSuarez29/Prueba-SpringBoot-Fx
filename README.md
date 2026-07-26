@@ -1,8 +1,13 @@
 # 📚 Corrección de Examen – POO
 ### JavaFX con BCrypt + Spring Boot REST API
 
+> **📌 Importante**
+>
+> La **corrección completa de ambos proyectos** se encuentra en la **rama `main`** de este repositorio. En dicha rama se incluyen todas las modificaciones realizadas para corregir los errores identificados en el examen, así como las mejoras implementadas en el código y la configuración de los proyectos.
+
 Este repositorio contiene **dos proyectos independientes** desarrollados como parte de la corrección de un examen de **Programación Orientada a Objetos**. Ambos muestran el uso de tecnologías modernas para el desarrollo de aplicaciones de escritorio y servicios web.
 
+---
 ---
 
 # 🗂️ Estructura del repositorio
