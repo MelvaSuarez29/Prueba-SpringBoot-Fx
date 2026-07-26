@@ -88,7 +88,7 @@ ClienteDAO.java
 ```
 
 ```java
-private static final String URL = "jdbc:mysql://localhost:3306/login_hash";
+private static final String URL = "jdbc:mysql://localhost:3307/login_hash";
 private static final String USER = "root";
 private static final String PASSWORD = "tu_contraseña";
 ```
@@ -263,8 +263,8 @@ curl -X GET http://localhost:8080/colegio
 
 - Ambos proyectos son completamente independientes.
 - No comparten base de datos.
-- JavaFX utiliza MySQL en el puerto **3306**.
-- Spring Boot utiliza MySQL en el puerto **3306**.
+- JavaFX utiliza MySQL en el puerto **3307**.
+- Spring Boot utiliza MySQL en el puerto **3307**.
 - Las contraseñas del proyecto JavaFX se almacenan utilizando **BCrypt**.
 - La API REST implementa únicamente operaciones CRUD para la entidad Colegio.
 
